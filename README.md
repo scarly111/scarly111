@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Yiğit. I'm a product-minded developer based in Antalya. I work on full stack projects, experimental games and data-driven ideas. My goal is to build things that are simple, fast, and genuinely useful.
+
+A developer who cares about both code and the bigger picture.
+I study Management Information Systems, a field that sits between business and technology. I try to turn this into an advantage by not only writing code, but also thinking about why I'm building something, who it's for, and how it can create value.
+
+In my spare time, I experiment with game ideas, small automations, and notes around finance/real estate. Long term, I want to be strong both technically and on the entrepreneurial side.
+
 <!--
 **scarly111/scarly111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
